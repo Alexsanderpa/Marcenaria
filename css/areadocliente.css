@@ -1,0 +1,119 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: 10px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: url(https://i.pinimg.com/originals/1e/c8/eb/1ec8ebb3b7ee20b824dcc0aaa0495e50.jpg);
+}
+#navegação{
+	background: black;
+	height: 45px;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	font-size: 20px;
+}
+#area{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#area-principal{
+	margin: 55px auto 10px auto;
+}
+
+#logo{
+	float: left;
+	color: white;
+}
+
+#menu{
+	float: right;
+	padding: 10px 0;
+	font-size: 20px;
+	border-radius: 20px 20px;
+}
+
+a{
+	text-decoration: none;
+	padding: 5px 10px;
+}
+
+a:link{
+	color: #838383;
+}
+
+a:visited{
+	color: #838383;
+}
+
+a:hover{
+	color: black;
+	background: white;
+	border-radius: 20px 20px;
+}
+
+a:active{
+	color: #535353;
+}
+
+
+.data-postagem{
+	font-size: 14px;
+	border-bottom: 1px solid #f4f4f4;
+	display: block;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.img-postagem{
+	float: left;
+	margin: 0 10px 5px 0;
+	height: 100%;
+	width: 100%;
+}
+
+.postado{
+	border-left: 5px solid #d8d8d8;
+	padding-left: 5px;
+	display: block;
+	margin-top: 
+}
+
+footer{
+	background: black;
+	font-size: 13px;
+	color: white;
+	padding: 50px;
+	text-align: center;
+	margin-top: 240px;
+}
+
+table{
+	padding: 100px;
+	text-align: center;
+	font-size: 20px;
+	color: black;
+	margin-top: 140px;
+	margin-left: 500px;
+	height: 200px;
+	background: url(http://eupossoisso.com/wp-content/uploads/2015/12/background-madeira1.png);
+
+}
+
+td{
+	text-align: left;
+}
+
+#inp1{
+	text-align: right;
+}
+
+#butt{
+	text-align: center;
+	margin-top: 50px;
+	height: 60px;
+}

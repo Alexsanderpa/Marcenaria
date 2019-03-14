@@ -1,0 +1,161 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-size: 10px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: black;
+}
+#navegação{
+	background: black;
+	height: 45px;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	font-size: 20px;
+}
+#area{
+	width: 1200px;
+	margin: 0 auto;
+}
+
+#area-principal{
+	margin: 55px auto 10px auto;
+}
+
+#logo{
+	float: left;
+	color: white;
+}
+
+#menu{
+	float: right;
+	padding: 10px 0;
+	font-size: 20px;
+	border-radius: 20px 20px;
+}
+
+#postagem{
+	background-image: url(https://i.pinimg.com/originals/1e/c8/eb/1ec8ebb3b7ee20b824dcc0aaa0495e50.jpg);
+	padding: 5px;
+	margin-bottom: 10px;
+	font-size: 15px;
+	text-align: center;
+	color: white;
+
+}
+
+h2{
+	text-decoration: underline;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	padding-bottom: 20px;
+	text-shadow:3px 3px 0px black;
+}
+
+a{
+	text-decoration: none;
+	padding: 5px 10px;
+}
+
+a:link{
+	color: #838383;
+}
+
+a:visited{
+	color: #838383;
+}
+
+a:hover{
+	color: black;
+	background: white;
+	border-radius: 20px 20px;
+}
+
+a:active{
+	color: #535353;
+}
+
+
+.data-postagem{
+	font-size: 14px;
+	border-bottom: 1px solid #f4f4f4;
+	display: block;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+}
+
+.img-postagem{
+	float: left;
+	margin: 0 10px 5px 0;
+	height: 100%;
+	width: 100%;
+
+}
+
+
+
+.postado{
+	border-left: 5px solid #d8d8d8;
+	padding-left: 5px;
+	display: block;
+	margin-top: 
+}
+
+footer{
+	background: black;
+	font-size: 13px;
+	color: white;
+	padding: 50px;
+	text-align: center;
+}
+
+p:postagem{
+	font-size: 10px;
+}
+
+#ultext{
+	padding: 10px;
+	margin-right: 600px;
+	margin-top: 300px;
+	margin-top: 1000px;
+	
+}
+
+.imgtext{
+	padding: 10px;
+	margin-left: 800px;
+	height: 200px;
+	width: 350px;
+}
+
+#textt{
+	padding: 170px;
+	font-size: 25px;
+	text-align: left;
+	margin-left: 500px;
+	height: 20px;
+
+
+}
+
+#textt:hover{
+	background: url(https://i1.wp.com/www.multarte.com.br/wp-content/uploads/2018/11/background-madeira4-1.jpg?fit=960%2C640&ssl=1);
+	transition: all 2s;
+}
+
+#imgtt{
+	padding: 170px;
+	margin-right: 500px;
+
+}
+
+
+
+
+
+
+
